@@ -1,0 +1,81 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		395279F32682649F0015FCFF /* index */ = {isa = PBXFileReference; lastKnownFileType = text; path = index; sourceTree = "<group>"; };
+		395279F4268264B10015FCFF /* style1 */ = {isa = PBXFileReference; lastKnownFileType = text; path = style1; sourceTree = "<group>"; };
+		395279F5268264C20015FCFF /* script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = script.js; sourceTree = "<group>"; };
+		395279F6268286810015FCFF /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+		395279F72682877D0015FCFF /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		395279EC2682641C0015FCFF = {
+			isa = PBXGroup;
+			children = (
+				395279F72682877D0015FCFF /* index.html */,
+				395279F6268286810015FCFF /* style.css */,
+				395279F5268264C20015FCFF /* script.js */,
+				395279F4268264B10015FCFF /* style1 */,
+				395279F32682649F0015FCFF /* index */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		395279ED2682641C0015FCFF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 395279F02682641C0015FCFF /* Build configuration list for PBXProject "weather info using api" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 395279EC2682641C0015FCFF;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		395279F12682641C0015FCFF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		395279F22682641C0015FCFF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		395279F02682641C0015FCFF /* Build configuration list for PBXProject "weather info using api" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				395279F12682641C0015FCFF /* Debug */,
+				395279F22682641C0015FCFF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 395279ED2682641C0015FCFF /* Project object */;
+}
